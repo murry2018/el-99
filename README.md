@@ -21,7 +21,8 @@ and some basic data structures.
 
 ### List Processing
 
-- [p01.el](sol/p01.el): P01 (*) Find the last box of a list
+- [p01.el](sol/p01.el): P01 (*) Find the last box of a list.
+- [p02.el](sol/p02.el): P02 (*) Find the last but one box of a list.
 
 ### Arithmetic
 
