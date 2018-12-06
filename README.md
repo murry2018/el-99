@@ -9,16 +9,28 @@ questioning for list processing, arithmetic & logic operation,
 and some basic data structures.
 
 ## Contents
-- [List Processing](#list-processing): #01 - #28
-- Arithmetic: #31 - # 41
-- Logic and Codes: #46 - #50
-- Binary Trees: #54 - #69
-- Multiway Trees: #70 - #73
-- Graphs: #80 - #89
-- Misc: #90 - #99
+- [List Processing](#list-processing): P01 - P28
+- [Arithmetic](#arithmetic): P31 - P41
+- [Logic and Codes](#logic-and-codes): P46 - P50
+- [Binary Trees](#binary-trees): P54 - P69
+- [Multiway Trees](#multiway-trees): P70 - P73
+- [Graphs](#graphs): P80 - P89
+- [Misc](#misc): P90 - P99
 
 ## Solutions
 
 ### List Processing
 
 - [p01.el](sol/p01.el): P01 (*) Find the last box of a list
+
+### Arithmetic
+
+### Logic and Codes
+
+### Binary Trees
+
+### Multiway Trees
+
+### Graphs
+
+### Misc
