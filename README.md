@@ -24,6 +24,7 @@ and some basic data structures.
 - [p01.el](sol/p01.el): P01 (*) Find the last box of a list.
 - [p02.el](sol/p02.el): P02 (*) Find the last but one box of a list.
 - [p03.el](sol/p03.el): P03 (*) Find the K'th element of a list.
+- [p04.el](sol/p04.el): P04 (*) Find the number of elements of a list.
 
 ### Arithmetic
 
