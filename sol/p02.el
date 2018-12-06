@@ -3,9 +3,9 @@
 ;;     * (my-but-last '(a b c d))
 ;;     (C D)
 
-(defun my-but-last (coll)
-  (if (null (cddr coll)) coll
-    (my-but-last (cdr coll))))
+(defun my-but-last (s)
+  (if (null (cddr s)) s
+    (my-but-last (cdr s))))
 
 ;; Test
 (assert (equal (my-but-last '(a b c d)) '(c d)))

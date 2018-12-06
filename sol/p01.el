@@ -3,9 +3,9 @@
 ;;      * (my-last '(a b c d))
 ;;      (D)
 
-(defun my-last (coll)
-  (if (null (cdr coll)) coll
-    (my-last (cdr coll))))
+(defun my-last (s)
+  (if (null (cdr s)) s
+    (my-last (cdr s))))
 
 ;; Test
 (assert (equal (my-last '(a b c d)) '(d)))
