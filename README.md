@@ -26,6 +26,7 @@ and some basic data structures.
 - [p03.el](sol/p03.el): P03 (*) Find the K'th element of a list.
 - [p04.el](sol/p04.el): P04 (*) Find the number of elements of a list.
 - [p05.el](sol/p05.el): P05 (*) Reverse a list.
+- [p06.el](sol/p06.el): P06 (*) Find out whether a list is a palindrome.
 
 ### Arithmetic
 
